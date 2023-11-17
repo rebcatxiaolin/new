@@ -23,7 +23,7 @@ setup(
     description='A command-line interface to ChatGPT',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url='https://github.com/zhile-io/pandora',
+    url='https://github.com/rebcatxiaolin/new',
     packages=find_packages('src'),
     package_dir={'pandora': 'src/pandora'},
     include_package_data=True,
@@ -39,8 +39,8 @@ setup(
         ]
     },
     project_urls={
-        'Source': 'https://github.com/zhile-io/pandora',
-        'Tracker': 'https://github.com/zhile-io/pandora/issues',
+        'Source': 'https://github.com/rebcatxiaolin/new',
+        'Tracker': 'https://github.com/rebcatxiaolin/new/issues',
     },
     classifiers=[
         'Development Status :: 5 - Production/Stable',
